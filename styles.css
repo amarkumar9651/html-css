@@ -1,0 +1,145 @@
+.bigdiv{
+
+  margin: 0
+}
+body{
+background-color: #f8f5f1;
+  margin: 0;
+
+}
+.aaa{
+  color: red;
+}
+h2{
+  font-family: 'Bonbon', cursive;
+  font-size: 2em;
+}
+
+
+h1{
+  color: white;
+    margin: 0;
+    font-size: 8em;
+    position: absolute;
+    left: 500px;
+    top: 210px;
+    font-family: 'Kalam', cursive;
+}
+h3{
+  color: white;
+      margin: 0;
+
+}
+
+.firsth3{
+  font-size: 3em;
+  position: absolute;
+  left: 525px;
+  top: 620px;
+  font-family: 'Tillana', cursive;
+
+}
+.learnerp{
+  font-size: 2.5em;
+  position: absolute;
+  left: 565px;
+  top: 700px;
+  color: white;
+  margin: 0;
+}
+.notphoto{
+  background-color: #f8f5f1;
+  width: 100%;
+  position: absolute;
+  top: 1265px;
+
+}
+.mainimg{
+  position: absolute;
+  top: 0;
+  height: 1250px;
+  bottom: 2000px;
+  width: 100%;
+
+}
+
+.moonimg{
+  position: fixed;
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+.rocket1{
+
+  width: 10%;
+  height: 120px;
+  display: block;
+  margin: auto;
+}
+.rocket2{
+  width: 10%;
+  display: inline-block;
+  height: 140px;
+  margin-left: 300px;
+}
+p{
+  color: black;
+  text-align: center;
+  display: inline-block;
+  font-family: 'Monda', sans-serif;
+  font-size: 1em;
+}
+.firstpara{
+  display: block;
+}
+.secondpara{
+  background-color: #f8f5f1;
+  width: 100%;
+  position: absolute;
+  top: 1813px;
+}
+.astronaut{
+  width: 10%;
+  display: inline-block;
+  height: 120px;
+  margin-left: 25px
+}
+
+.lastpara{
+  background-color: #f8f5f1;
+  width: 100%;
+  position: absolute;
+  top: 2023px;
+}
+.contactme{
+  background-color: #3edbf0;
+  width: 100%;
+  position: absolute;
+  top: 2465px;
+}
+.gif{
+  height: 200px;
+  width: 17%;
+}
+.lastttt
+{
+  font-size: 1.3em;
+  color: black;
+  margin-top: 55px;
+  margin-left: 530px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0;
+  width: 15%;
+}
+.clickme{
+  position: fixed;
+  margin-left: 32px;
+  margin-top: 63px;
+  width: 8%;
+  height: 7%;
+}
